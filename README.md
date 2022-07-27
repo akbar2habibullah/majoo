@@ -1,5 +1,5 @@
-###Technical test Majoo Frontend Engineer recruitment
+##Technical test Majoo Frontend Engineer recruitment
 
 by Habibullah Akbar
 
-Live demo [here](https://github.com/akbar2habibullah/majoo)
+Live demo [here](https://majoo.vercel.app/)
